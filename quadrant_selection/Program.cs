@@ -6,10 +6,6 @@ namespace quadrant_selection
         static void Main(string[] args)
         {
             int x = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("test");
-
-
-
             int y = Convert.ToInt32(Console.ReadLine());
             if (x > 0 && y > 0)
             {
